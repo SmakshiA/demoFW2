@@ -27,7 +27,6 @@ body{
 .card {
   position: relative;
   display: flex;
-  right: 200px;
   align-items: center;
   justify-content: center;
   background-color: #000000;
